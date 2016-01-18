@@ -5,6 +5,7 @@ Tags = ["SynapseGarden", "Neophytes", "Primary"]
 date = "2015-12-07T10:00:00-05:00"
 menu = "blog"
 title = "Welcome"
+xtags = "x-simple-reg.js"
 
 +++
 
@@ -64,10 +65,7 @@ some of the projects we’ve been working on.
 
 You can sign up here for more info, and access to our closed alpha services.
 
-{{< divid reg-email >}}
-{{< divid reg-button >}}
-{{< divid output >}}
-{{< dart simple-reg >}}
-
+<x-simple-reg></x-simple-reg>
+ 
 ### Have a great week!
 
